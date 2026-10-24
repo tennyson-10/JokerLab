@@ -1,0 +1,2 @@
+﻿app/page.tsx(132,8): error TS17008: JSX element 'div' has no corresponding closing tag.
+app/page.tsx(252,11): error TS17002: Expected corresponding JSX closing tag for 'div'.
